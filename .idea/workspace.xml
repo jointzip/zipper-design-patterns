@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b9d4b77-d5b2-4a2f-9bfa-f95c6b0e7401" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\JavaTools\RepMaven" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../JavaTools/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Java\JavaTools\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1v13L9EQHlRygleelQVAdrds4vS" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5229885" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GameStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.athome.designers.strategy.v1.startMain.GameStart" />
+      <module name="designs-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.athome.designers.strategy.v1.startMain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b9d4b77-d5b2-4a2f-9bfa-f95c6b0e7401" name="Default Changelist" comment="" />
+      <created>1625715708845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625715708845</updated>
+      <workItem from="1625715712113" duration="4543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625720178249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1625720178249" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1625719702214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1625719702214" />
+    <state width="1308" height="169" key="GridCell.Tab.0.bottom" timestamp="1625720304849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625720304849" />
+    <state width="1308" height="169" key="GridCell.Tab.0.center" timestamp="1625720304849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625720304849" />
+    <state width="1308" height="169" key="GridCell.Tab.0.left" timestamp="1625720304849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625720304849" />
+    <state width="1308" height="169" key="GridCell.Tab.0.right" timestamp="1625720304849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625720304849" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1625720259158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1625720259158" />
+    <state x="352" y="106" width="661" height="516" key="find.popup" timestamp="1625719188412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="106" width="661" height="516" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1625719188412" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1625718764362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1625718764362" />
+  </component>
+</project>
