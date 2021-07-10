@@ -1,3 +1,5 @@
+idea连接github的token:  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
+
 **策略模式：**
 应用场景 
 1.当你有很多类似的类，但它们执行某些行为的方式不同时，请使用此 策略。 

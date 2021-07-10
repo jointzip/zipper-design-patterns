@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b9d4b77-d5b2-4a2f-9bfa-f95c6b0e7401" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/zipper-design-patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/leetcode/top01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/customertype/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/customertype/Membership.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/customertype/normal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeOrder/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeOrder/OrderWayA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeOrder/OrderWayB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeSettle/Settle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeSettle/SettleA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeSettle/SettleB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/yangzhou/v3/aqsDemo/AQSDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/yangzhou/v3/stringDemo/StringInternalLoadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/yangzhou/v3/synchronizedDemo/LockSupportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/yangzhou/v3/synchronizedDemo/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v1/move/StepByStepMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v1/move/StepByStepMove.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +66,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5229885" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.LockSupportTest">
     <configuration name="LockSupportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -176,8 +157,16 @@
       <workItem from="1625715712113" duration="4543000" />
       <workItem from="1625723234037" duration="9476000" />
       <workItem from="1625833205042" duration="4704000" />
-      <workItem from="1625876584567" duration="5643000" />
+      <workItem from="1625876584567" duration="6093000" />
     </task>
+    <task id="LOCAL-00001" summary="周阳大厂面试第三季 记录">
+      <created>1625882574134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625882574134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +185,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="周阳大厂面试第三季 记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="周阳大厂面试第三季 记录" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625725246071">
       <screen x="0" y="0" width="1366" height="728" />
@@ -209,10 +202,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="78" y="291" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1625882476248" />
-    <state x="126" y="0" key="CommitChangelistDialog2" timestamp="1625723312748">
+    <state x="126" y="0" key="CommitChangelistDialog2" timestamp="1625882572314">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="126" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1625723312748" />
+    <state x="126" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1625882572314" />
     <state width="1308" height="161" key="GridCell.Tab.0.bottom" timestamp="1625880753175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -229,14 +222,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625880753175" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1625842450146">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1625882958165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1625842450146" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1625723323491">
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1625882958165" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1625882576837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1625723323491" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1625882576837" />
     <state x="337" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1625876585644">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -253,9 +246,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="352" y="106" width="812" height="578" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1625795429350" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1625881190530">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1625882971790">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1625881190530" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1625882971790" />
   </component>
 </project>
