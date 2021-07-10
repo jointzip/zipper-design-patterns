@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b9d4b77-d5b2-4a2f-9bfa-f95c6b0e7401" name="Default Changelist" comment="" />
+    <list default="true" id="4b9d4b77-d5b2-4a2f-9bfa-f95c6b0e7401" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/zipper-design-patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/leetcode/top01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/customertype/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/customertype/Membership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/customertype/normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeOrder/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeOrder/OrderWayA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeOrder/OrderWayB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeSettle/Settle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeSettle/SettleA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/makeSettle/SettleB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v2fosun/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/yangzhou/v3/aqsDemo/AQSDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/yangzhou/v3/stringDemo/StringInternalLoadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/yangzhou/v3/synchronizedDemo/LockSupportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/yangzhou/v3/synchronizedDemo/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v1/move/StepByStepMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/athome/designers/strategy/v1/move/StepByStepMove.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +42,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -45,8 +71,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,15 +87,65 @@
     <property name="project.structure.side.proportion" value="0.5229885" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
-    <configuration name="GameStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.athome.designers.strategy.v1.startMain.GameStart" />
-      <module name="designs-mode" />
+  <component name="RunManager" selected="Application.LockSupportTest">
+    <configuration name="LockSupportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.athome.designers.yangzhou.v3.synchronizedDemo.LockSupportTest" />
+      <module name="zipper-design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.athome.designers.strategy.v1.startMain.*" />
+          <option name="PATTERN" value="com.athome.designers.yangzhou.v3.synchronizedDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringInternalLoadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.athome.designers.yangzhou.v3.stringDemo.StringInternalLoadTest" />
+      <module name="zipper-design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.athome.designers.yangzhou.v3.synchronizedDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.athome.designers.strategy.v2fosun.test" />
+      <module name="zipper-design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.athome.designers.strategy.v2fosun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.athome.designers.yangzhou.v3.synchronizedDemo.test1" />
+      <module name="zipper-design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.athome.designers.yangzhou.v3.synchronizedDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="top01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.athome.designers.leetcode.top01" />
+      <module name="zipper-design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.athome.designers.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,7 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GameStart" />
+        <item itemvalue="Application.LockSupportTest" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.top01" />
+        <item itemvalue="Application.StringInternalLoadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -91,48 +174,88 @@
       <option name="presentableId" value="Default" />
       <updated>1625715708845</updated>
       <workItem from="1625715712113" duration="4543000" />
+      <workItem from="1625723234037" duration="9476000" />
+      <workItem from="1625833205042" duration="4704000" />
+      <workItem from="1625876584567" duration="5643000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625720178249">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625725246071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1625720178249" />
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1625719702214">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1625725246071" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1625842507000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1625719702214" />
-    <state width="1308" height="169" key="GridCell.Tab.0.bottom" timestamp="1625720304849">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1625842507000" />
+    <state x="78" y="291" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1625882476248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625720304849" />
-    <state width="1308" height="169" key="GridCell.Tab.0.center" timestamp="1625720304849">
+    <state x="78" y="291" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1625882476248" />
+    <state x="126" y="0" key="CommitChangelistDialog2" timestamp="1625723312748">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625720304849" />
-    <state width="1308" height="169" key="GridCell.Tab.0.left" timestamp="1625720304849">
+    <state x="126" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1625723312748" />
+    <state width="1308" height="161" key="GridCell.Tab.0.bottom" timestamp="1625880753175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625720304849" />
-    <state width="1308" height="169" key="GridCell.Tab.0.right" timestamp="1625720304849">
+    <state width="1308" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625880753175" />
+    <state width="1308" height="161" key="GridCell.Tab.0.center" timestamp="1625880753174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625720304849" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1625720259158">
+    <state width="1308" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625880753174" />
+    <state width="1308" height="161" key="GridCell.Tab.0.left" timestamp="1625880753174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1625720259158" />
-    <state x="352" y="106" width="661" height="516" key="find.popup" timestamp="1625719188412">
+    <state width="1308" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625880753174" />
+    <state width="1308" height="161" key="GridCell.Tab.0.right" timestamp="1625880753175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="352" y="106" width="661" height="516" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1625719188412" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1625718764362">
+    <state width="1308" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625880753175" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1625842450146">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1625718764362" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1625842450146" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1625723323491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1625723323491" />
+    <state x="337" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1625876585644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1625876585644" />
+    <state x="451" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625878159428">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1625878159428" />
+    <state x="413" y="123" key="extract.method.dialog" timestamp="1625879670903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="123" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1625879670903" />
+    <state x="352" y="106" width="812" height="578" key="find.popup" timestamp="1625795429350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="106" width="812" height="578" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1625795429350" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1625881190530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1625881190530" />
   </component>
 </project>

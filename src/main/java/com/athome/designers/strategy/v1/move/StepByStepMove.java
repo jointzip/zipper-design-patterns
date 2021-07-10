@@ -1,6 +1,5 @@
 package com.athome.designers.strategy.v1.move;
 
-import com.athome.designers.strategy.v1.move.Movable;
 
 /**
  * @Author:
