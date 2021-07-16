@@ -1,7 +1,4 @@
 package com.athome.designers.leetcode;
-
-import sun.applet.Main;
-
 import java.util.HashMap;
 import java.util.Map;
 
