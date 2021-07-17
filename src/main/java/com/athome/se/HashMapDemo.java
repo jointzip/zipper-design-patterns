@@ -21,5 +21,6 @@ public class HashMapDemo {
         System.out.println(map.get("obj1"));
         ;
         map.get(null);
+        System.out.println("*******************************************测试提交---linked测试**************************");
     }
 }
